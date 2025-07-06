@@ -24,7 +24,12 @@
 
 // const myTotalBalance  = 40000230
 
-// console.log(myTotalBalance.toLocaleString('en-IN'));
+// console.log(myTotalBalance.toLocaleString('en-IN')); //willl be string
+
+// "1,000".replace(/,/g, "")        // "1000"
+// "12,34,567".replace(/,/g, "")    // "1234567"
+// "9,99,99,999.50".replace(/,/g, "") // "99999999.50"
+
 
 
 
